@@ -103,7 +103,7 @@ const questions = [
     ]
   },
   {
-    question: '2 == "2"',
+    question: '2 === "2"',
     answers: [
       { text: 'Adevărat', correct: false },
       { text: 'Fals', correct: true }
